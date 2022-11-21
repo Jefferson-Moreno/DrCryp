@@ -2335,3 +2335,12 @@
   overflow: visible;
   clip: auto;
 }
+.gfg {
+  width:auto;
+  text-align:center;
+  padding:20px;
+}
+#my-image {
+  max-width:90%;
+  height:95%;
+}
